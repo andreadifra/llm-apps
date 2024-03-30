@@ -1,7 +1,7 @@
-ds_template
+LLM Applications
 ==============================
 
-my template ds project
+Spun from my templated DS project
 
 Project Organization
 ------------
